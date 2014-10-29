@@ -1,0 +1,12 @@
+Changes
+lib/Address/PostCode/UserAgent.pm
+lib/Address/PostCode/UserAgent/Exception.pm
+Makefile.PL
+SIGNATURE
+MANIFEST
+MANIFEST.SKIP
+README
+t/00-load.t
+t/manifest.t
+t/pod.t
+t/changes.t
