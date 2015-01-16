@@ -1,5 +1,10 @@
 Revision history for Address-PostCode-UserAgent
 
+0.04  2015-01-16T14:14:14+01:00
+      - Removed SIGNATURE file.
+      - Updated MANIFEST.SKIP file to ignore folder 'eumm/'.
+      - Updated Copyright year information.
+
 0.03  2014-11-15T11:10:25+01:00
       - Added support to accept headers optionally to the method get().
 
