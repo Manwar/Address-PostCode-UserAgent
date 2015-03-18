@@ -2,6 +2,7 @@ Changes
 lib/Address/PostCode/UserAgent.pm
 lib/Address/PostCode/UserAgent/Exception.pm
 Makefile.PL
+LICENSE
 MANIFEST
 MANIFEST.SKIP
 README

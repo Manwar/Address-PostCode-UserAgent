@@ -1,5 +1,8 @@
 Revision history for Address-PostCode-UserAgent
 
+0.05  2015-03-18T18:50:00+01:00
+      - Added LICENSE file.
+
 0.04  2015-01-16T14:14:14+01:00
       - Removed SIGNATURE file.
       - Updated MANIFEST.SKIP file to ignore folder 'eumm/'.
