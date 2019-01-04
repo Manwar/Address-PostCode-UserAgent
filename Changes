@@ -1,5 +1,8 @@
 Revision history for Address-PostCode-UserAgent
 
+0.06  2019-01-04T20:10:00+01:00
+      - Used namespace::autoclean instead.
+
 0.05  2015-03-18T18:50:00+01:00
       - Added LICENSE file.
 
