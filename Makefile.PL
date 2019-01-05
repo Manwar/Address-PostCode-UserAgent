@@ -29,6 +29,10 @@ WriteMakefile(
     clean => { FILES => 'Address-PostCode-UserAgent-*' },
     (eval { ExtUtils::MakeMaker->VERSION(6.46) } ? (META_MERGE => {
         'meta-spec' => { version => 2 },
+        provides    => {
+            'Address::PostCode::UserAgent'            => { file => 'lib/Address/PostCode/UserAgent.pm'          , version => '0.07' },
+            'Address::PostCode::UserAgent::Exception' => { file => 'lib/Address/PostCode/UserAgent/Exception.pm', version => '0.07' },
+        },
         resources => {
             repository => {
                 type => 'git',

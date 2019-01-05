@@ -1,5 +1,8 @@
 Revision history for Address-PostCode-UserAgent
 
+0.07  2019-01-05T23:50:00+01:00
+      - Added key 'provides' as suggested by CPANTS.
+
 0.06  2019-01-04T20:10:00+01:00
       - Used namespace::autoclean instead.
 

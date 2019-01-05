@@ -1,6 +1,6 @@
 package Address::PostCode::UserAgent::Exception;
 
-$Address::PostCode::UserAgent::Exception::VERSION = '0.06';
+$Address::PostCode::UserAgent::Exception::VERSION = '0.07';
 
 =head1 NAME
 
@@ -8,7 +8,7 @@ Address::PostCode::UserAgent::Exception - Interface to exception used by Address
 
 =head1 VERSION
 
-Version 0.06
+Version 0.07
 
 =cut
 
